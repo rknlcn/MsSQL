@@ -1,0 +1,2 @@
+# MsSQL
+İlişki Türleri
